@@ -210,7 +210,7 @@ create_set(football, n3)
 
 
 
-print(f"List of students who play both criket and badminton,\n{cricket} intersection {badminton} is: ",intersection(cricket, badminton))
+
 
 
 
