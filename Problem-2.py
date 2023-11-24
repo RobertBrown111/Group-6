@@ -4,7 +4,7 @@
 
 """
 
-In second year computer engineering class, group A student's paly criket, group B students play badminton and group C students play football
+In second year computer engineering class, group A student's play basketball, group B students play badminton and group C students play tennis
 
 write a Python program using functions to compute following:
 
