@@ -228,7 +228,7 @@ print("Number of students who play neither cricket nor badminton is: ", len(list
 
 
 
-print(f"List of students who play both criket and football,\n{cricket} intersection {football} is: ",intersection(cricket, football))
+
 
 
 
