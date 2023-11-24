@@ -48,7 +48,7 @@ def In(element, list1):
 
 
 
-
+def noSimilarEle(list1):
 
     flag =0 
 
